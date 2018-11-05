@@ -1,0 +1,10 @@
+C:\Users\balin\source\repos\speechToText\speechToText\bin\Debug\speechToText.exe.config
+C:\Users\balin\source\repos\speechToText\speechToText\bin\Debug\speechToText.exe
+C:\Users\balin\source\repos\speechToText\speechToText\bin\Debug\speechToText.pdb
+C:\Users\balin\source\repos\speechToText\speechToText\obj\Debug\speechToText.csprojAssemblyReference.cache
+C:\Users\balin\source\repos\speechToText\speechToText\obj\Debug\speechToText.Form1.resources
+C:\Users\balin\source\repos\speechToText\speechToText\obj\Debug\speechToText.Properties.Resources.resources
+C:\Users\balin\source\repos\speechToText\speechToText\obj\Debug\speechToText.csproj.GenerateResource.cache
+C:\Users\balin\source\repos\speechToText\speechToText\obj\Debug\speechToText.csproj.CoreCompileInputs.cache
+C:\Users\balin\source\repos\speechToText\speechToText\obj\Debug\speechToText.exe
+C:\Users\balin\source\repos\speechToText\speechToText\obj\Debug\speechToText.pdb
